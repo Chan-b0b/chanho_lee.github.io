@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Humanoid Manipulation
+title: Manipulation PoCs
 description: Vision-based pick-and-place manipulation with Unitree G1 in manufacturing environments
 img:
 importance: 3
