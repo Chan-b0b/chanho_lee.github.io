@@ -75,11 +75,16 @@ ninja.data = [{
           description: "Independently developed IK+IL framework achieving 95% pick-and-place success on Unitree G1",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-humanoid-manipulation",
-          title: 'Humanoid Manipulation',
+            },},{id: "projects-manipulation-pocs",
+          title: 'Manipulation PoCs',
           description: "Vision-based pick-and-place manipulation with Unitree G1 in manufacturing environments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-robotic-juggling-wip",
+          title: 'Robotic Juggling (WIP)',
+          description: "RL-based dynamic juggling on Dexmate — training in Isaac Lab",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
